@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KHMD App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_intro">Intro Activity</string>
+    <string name="title_activity_read">Read Activity</string>
+    <string name="title_activity_suggest_content">Suggest Content </string>
+
+    <string name="who">
+        The Kumaran Hacker Maker Designer Community is a young, student run community that believes in harnessing the power of technology
+        to make things rather than being mere consumers.
+
+    </string>
+
+    <string name="feedback">
+        We love feedback. Direct and incisive is how we like it. This space will allow
+        for anonymous feedback on the app and also KHMD in general.
+    </string>
+
+    <string name="connect">
+        KHMD is all about collaboration. We\'re always looking out for partnering with
+        students, alumni, parents and any individuals/organisation in the technology domain.
+
+    </string>
+
+</resources>
